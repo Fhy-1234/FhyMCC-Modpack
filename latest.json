@@ -1,0 +1,25 @@
+{
+  "modpack_version": "1.0.0",
+  "release_date": "2026-03-18",
+  "minecraft_version": "1.21.10",
+  "loader": "Fabric 0.18.4",
+  "notes": "## 调整功能\n\n- 本次对游戏体验和性能优化进行了大幅度升级\n- 服务器视距过低时，可通过缓存区块方式提升客户端视距\n- 优化了内存占用与渲染速度\n- 添加了 Axiom 等建筑实用功能\n- 更新了资源包和光影包\n- 游戏版本升级到 1.21.10\n\n> 其他内容请自行探索！\n\n## 问题修复\n\n- 修复了其他已知问题",
+  "changelog_url": "https://fhy-1234.github.io/2025/Fhysmcc/",
+  "downloads": [
+    {
+      "name": "Huang1111网盘（完整整合包·推荐）",
+      "url": "https://pan.huang1111.cn/s/xblNWtV",
+      "code": "FhyMC1",
+      "size": 179306496,
+      "note": "推荐，可直接导入完整整合包"
+    },
+    {
+      "name": "蓝奏云盘（分卷包·需全部下载）",
+      "url": "https://wwata.lanzouv.com/b0w9mkk3c",
+      "code": "2pjs",
+      "size": 179306496,
+      "note": "分卷包需下载全部分卷后解压,才能导入"
+    }
+  ],
+  "page": "https://github.com/Fhy-1234/FhyMCC-Modpack"
+}
